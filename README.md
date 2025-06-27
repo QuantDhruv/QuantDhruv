@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm **Dhruv Yadav, AI-Intern @VehicleCare**  
+# Hi👋, I'm **Dhruv Yadav**  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Student-Coding%20Explorer-blueviolet?style=for-the-badge" alt="Student Badge"/>
@@ -9,8 +9,8 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 🎓 **Second-Year Computer Science Student** @ Uttarakhand Technical University
-- 🔍 Exploring **Data Structures & Algorithms (DSA)** in **C++**, enhancing analytical skills and problem-solving abilities
+- 🎓 **Third-Year Computer Science Student** @ Uttarakhand Technical University
+- 🔍 Exploring **Data Structures & Algorithms (DSA)** in **Java**, enhancing analytical skills and problem-solving abilities
 - 🛠️ Built a solid foundation in **Python**, enabling effective data handling and understanding of core programming concepts
 - 🌱 Preparing to dive into **Data Science**, expanding my technical expertise
 - 🚀 Passionate about learning, solving real-world problems, and contributing to meaningful innovations
