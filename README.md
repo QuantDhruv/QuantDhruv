@@ -1,4 +1,4 @@
-# Hi👋, I'm **Dhruv Yadav**  
+<h1 align="center">Hi 👋🏻, I'm Dhruv Yadav</h1> 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Student-Coding%20Explorer-blueviolet?style=for-the-badge" alt="Student Badge"/>
