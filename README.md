@@ -56,15 +56,35 @@
     </div>
 </body>
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantDhruv&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantDhruv&layout=compact&theme=radical" alt="Top Languages"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=quantdhruv&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=f39c12&icon_color=f39c12&text_color=FFFFFF" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantdhruv&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=f39c12&text_color=FFFFFF" alt="Top Languages" />
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=quantdhruv&theme=react&hide_border=true&background=0D1117&stroke=f39c12&ring=f39c12&fire=f1c40f&currStreakLabel=f39c12" alt="GitHub Streak" />
+</p>
+
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=quantdhruv&bg_color=0D1117&color=f39c12&line=f39c12&point=f1c40f&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Connect with Me
 
