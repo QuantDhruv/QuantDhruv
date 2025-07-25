@@ -46,16 +46,6 @@
 </div>
 
 ---
-<body>
-    <div class="container">
-        <h1>AutoInspect -(Live Project)</h1>
-      <p><strong>Project Link:</strong> <a href="https://ai.vehiclecare.app/autoinspect/" target="_blank">AutoInspect</a></p>
-        <p><strong>About:</strong> AutoInspect is an AI-powered vehicle inspection tool designed to automate damage detection and assessment. It leverages computer vision and machine learning to help users capture accurate vehicle images and analyze potential defects. Your current focus includes integrating a user guide framework and implementing a car overlay for guided image capture.</p>
-        <p><strong>Current Work:</strong> User guide framework & car overlay.</p>
-        <p><strong>Tech:</strong> Python, openCV, Docker, AI/ML</p>
-    </div>
-</body>
-
 ## GitHub Analytics
 
 <div align="center">
