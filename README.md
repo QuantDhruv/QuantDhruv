@@ -84,7 +84,17 @@
 
 ---
 
-<div align="center">
+
+---
+## Profile Views
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=quantdhruv&color=f39c12&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+</div>
+
+---
+
 
 ## 🌐 Connect with Me
 
